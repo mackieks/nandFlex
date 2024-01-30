@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BD45302G-TR
+#/272922/353876/2.49/5/3/Integrated Circuit
+DEF BD45302G-TR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "BD45302G-TR" 950 200 50 H V L CNN
+F2 "SOT95P280X125-5N" 950 100 50 H I L CNN
+F3 "https://www.rohm.com/datasheet/BD45302G/bd45xxg-e" 950 0 50 H I L CNN
+F4 "Voltage Detector with Fixed Delay Time: ROHM\'s BD45xxxG and BD46xxxG series of reset ICs utilize CMOS processes for low current consumption and high accuracy. The built-in counter timer delay circuit eliminates the need to set the delay time via external capacitor. The extensive lineup includes both Nch Open Drain and CMOS output types in a wide range of detection voltages (from 2.3V to 4.8V, in 0.1V steps), enabling selection of the ideal solution based on customer requirements. A total of 156 models are o" 950 -100 50 H I L CNN "Description"
+F5 "1.25" 950 -200 50 H I L CNN "Height"
+F6 "ROHM Semiconductor" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BD45302G-TR" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "755-BD45302G-TR" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/BD45302G-TR?qs=4kLU8WoGk0uoAPsIQTArqA%3D%3D" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ER 1 0 0 200 R 50 50 0 0 P
+X SUB 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X VOUT 4 1100 0 200 L 50 50 0 0 P
+X VDD 5 1100 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,18 @@
+(footprint "wii-single-via-0.5mm" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 61379DD7)
+  (property "Sheetfile" "omega-flex.kicad_sch")
+  (property "Sheetname" "")
+  (fp_text reference "J32" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 5c30d355-e5ca-4ad2-a59d-2f2567d04ade)
+  )
+  (fp_text value "Conn_01x01" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 009ff99f-5980-4b0e-8b14-84027c6ff1f9)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 947e1504-d20f-403b-a67c-41c2749a5c1a)
+  )
+  (pad "1" thru_hole circle (at 0 0 270) (size 0.508 0.508) (drill 0.254) (layers *.Cu *.Mask) (tstamp 16893061-2da4-43e5-9263-5abc5178f52c))
+)

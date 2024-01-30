@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BD45302G-TR
+D Voltage Detector with Fixed Delay Time: ROHM's BD45xxxG and BD46xxxG series of reset ICs utilize CMOS processes for low current consumption and high accuracy. The built-in counter timer delay circuit eliminates the need to set the delay time via external capacitor. The extensive lineup includes both Nch Open Drain and CMOS output types in a wide range of detection voltages (from 2.3V to 4.8V, in 0.1V steps), enabling selection of the ideal solution based on customer requirements. A total of 156 models are o
+K
+F https://www.rohm.com/datasheet/BD45302G/bd45xxg-e
+$ENDCMP
+#
+#End Doc Library
