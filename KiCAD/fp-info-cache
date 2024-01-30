@@ -1,4 +1,4 @@
-22663217645183336
+22750300392055648
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6370,9 +6370,44 @@ capacitor tantalum
 2
 2
 Connector
-Banana_Cliff_FCR7350x_S16N-PC_Horizontal
-Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
-cliff 4mm socket jack banana
+Banana_Cliff_FCR7350B_S16N-PC_Horizontal
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, black, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana black
+0
+1
+1
+Connector
+Banana_Cliff_FCR7350G_S16N-PC_Horizontal
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, green, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana green
+0
+1
+1
+Connector
+Banana_Cliff_FCR7350L_S16N-PC_Horizontal
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, blue, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana blue
+0
+1
+1
+Connector
+Banana_Cliff_FCR7350N_S16N-PC_Horizontal
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, brown, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana brown
+0
+1
+1
+Connector
+Banana_Cliff_FCR7350R_S16N-PC_Horizontal
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, red, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana red
+0
+1
+1
+Connector
+Banana_Cliff_FCR7350Y_S16N-PC_Horizontal
+Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, yellow, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf
+cliff 4mm socket jack banana yellow
 0
 1
 1
@@ -51009,23 +51044,51 @@ Hahn ACDC-Converter THT
 4
 4
 Converter_ACDC
-Converter_ACDC_HiLink_HLK-5Mxx
-ACDC-Converter, 10W, HiLink, HLK-5Mxx, (http://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%975W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%915W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V2.8.pdf)
-ACDC-Converter 5W THT HiLink board mount module
+Converter_ACDC_Hi-Link_HLK-2Mxx
+ACDC-Converter, 2W, Hi-Link, HLK-2Mxx, THT (Script generated with StandardBox.py) (https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%972W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%912W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%AF%B4%E6%98%8E%E4%B9%A6V2.6.pdf)
+ACDC-Converter 2W THT Hi-Link board mount module
 0
 4
 4
 Converter_ACDC
-Converter_ACDC_HiLink_HLK-10Mxx
-ACDC-Converter, 10W, HiLink, HLK-10Mxx, THT, http://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%9710W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%9110W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V1.8.pdf
-ACDC-Converter 10W THT HiLink board mount module
+Converter_ACDC_Hi-Link_HLK-5Mxx
+ACDC-Converter, 5W, Hi-Link, HLK-5Mxx, THT (Script generated with StandardBox.py) (https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%975W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%915W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V2.8.pdf)
+ACDC-Converter 5W THT Hi-Link board mount module
 0
 4
 4
 Converter_ACDC
-Converter_ACDC_HiLink_HLK-PMxx
-ACDC-Converter, 3W, HiLink, HLK-PMxx, THT, http://www.hlktech.net/product_detail.php?ProId=54
-ACDC-Converter 3W THT HiLink board mount module
+Converter_ACDC_Hi-Link_HLK-10Mxx
+ACDC-Converter, 10W, Hi-Link, HLK-10Mxx, THT (Script generated with StandardBox.py) (https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%9710W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%9110W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V1.8.pdf)
+ACDC-Converter 10W THT Hi-Link board mount module
+0
+4
+4
+Converter_ACDC
+Converter_ACDC_Hi-Link_HLK-12MxxA
+ACDC-Converter, 12W, Hi-Link, HLK-12MxxA, THT (Script generated with StandardBox.py) (https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%9712W%E7%B3%BB%E5%88%97/1/12W%E7%B3%BB%E5%88%97%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf)
+ACDC-Converter 12W THT Hi-Link board mount module
+0
+4
+4
+Converter_ACDC
+Converter_ACDC_Hi-Link_HLK-20Mxx
+ACDC-Converter, 20W, Hi-Link, HLK-20Mxx, THT (Script generated with StandardBox.py) (https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%9720W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%9120W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V1.6.pdf)
+ACDC-Converter 20W THT Hi-Link board mount module
+0
+4
+4
+Converter_ACDC
+Converter_ACDC_Hi-Link_HLK-30Mxx
+ACDC-Converter, 30W, Hi-Link, HLK-30Mxx, HLK-30MxxC, THT (Script generated with StandardBox.py) (https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%9730W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%9130W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V1.6.pdf)
+ACDC-Converter 30W THT Hi-Link board mount module
+0
+4
+4
+Converter_ACDC
+Converter_ACDC_Hi-Link_HLK-PMxx
+ACDC-Converter, 3W, Hi-Link, HLK-PMxx, THT (Script generated with StandardBox.py) (https://h.hlktech.com/download/ACDC%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%973W%E7%B3%BB%E5%88%97/1/%E6%B5%B7%E5%87%8C%E7%A7%913W%E7%B3%BB%E5%88%97%E7%94%B5%E6%BA%90%E6%A8%A1%E5%9D%97%E8%A7%84%E6%A0%BC%E4%B9%A6V2.8.pdf)
+ACDC-Converter 3W THT Hi-Link board mount module
 0
 4
 4
@@ -51082,6 +51145,20 @@ Converter_ACDC
 Converter_ACDC_MeanWell_IRM-60-xx_THT
 ACDC-Converter, 50-60W, Meanwell, IRM-60, THT https://www.meanwellusa.com/productPdf.aspx?i=687
 switching power supply
+0
+4
+4
+Converter_ACDC
+Converter_ACDC_MeanWell_MFM-10-xx_THT
+AC/DC board mount open frame power converter, input 80 ~ 264 VAC, 10W output, https://www.meanwellusa.com/upload/pdf/MFM-10/MFM-10-spec.pdf
+AC/DC power converter
+0
+4
+4
+Converter_ACDC
+Converter_ACDC_MeanWell_MFM-15-xx_THT
+AC/DC board mount open frame power converter, input 80 ~ 264 VAC, 15W output, https://www.meanwell.com/Upload/PDF/MFM-15/MFM-15-SPEC.PDF
+AC/DC power converter
 0
 4
 4
@@ -53634,6 +53711,13 @@ diode SOD964 SOD-964
 2
 2
 Diode_SMD
+ST_QFN-2L_1.6x1.0mm
+Unidirectional high power transient voltage suppressor (https://www.st.com/resource/en/datasheet/esda7p120-1u1m.pdf)
+QFN-2L Diode
+0
+2
+2
+Diode_SMD
 Vishay_SMPA
 Diode SMPA (DO-221BC), https://www.vishay.com/docs/87659/v8pa10.pdf
 Diode SMPA (DO-221BC)
@@ -54662,6 +54746,13 @@ NHD-C0220BiZ LCD
 0
 10
 10
+Display
+NHD-C0220BiZ-FSRGB
+NHD-C0220BiZ-FSRGB LCD https://newhavendisplay.com/content/specs/NHD-C0220BiZ-FSRGB-FBW-3VM.pdf
+NHD-C0220BiZ-FSRGB 2 x 20 character LCD RGB backlight
+0
+12
+12
 Display
 NHD-C12832A1Z-FSRGB
 128x32 LCD with RGB backlight https://www.newhavendisplay.com/specs/NHD-C12832A1Z-FSRGB-FBW-3V.pdf
@@ -56584,6 +56675,13 @@ Inductor_SMD
 L_Bourns_SRP1038C_10.0x10.0mm
 Bourns SRP1038C series SMD inductor http://www.bourns.com/docs/Product-Datasheets/SRP1038C.pdf
 Bourns SRP1038C SMD inductor
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRP1050WA
+Inductor, Bourns, SRP1050WA, 10.1mmx10mm (Script generated with StandardBox.py) (https://www.bourns.com/docs/product-datasheets/SRP1050WA.pdf)
+Inductor Bourns_SRP1050WA
 0
 2
 2
@@ -66605,6 +66703,13 @@ BGA 49 0.8
 49
 49
 Package_BGA
+Analog_BGA-77_9.0x15.0mm_Layout7x11_P1.27mm_Ball0.63mm
+Analog Devices BGA-77, 0.63mm pad, 9x15mm, 77 Ball, 7x11 Layout, 1.27mm Pitch, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-bga/05081964_B_bga77.pdf
+BGA 77 1.27 LTC Dwg 05-08-1964 Rev. B
+0
+77
+77
+Package_BGA
 Analog_BGA-209_9.5x16mm_Layout11x19_P0.8mm_Ball0.5mm_Pad0.4mm
 Analog BGA-209 (Reference LTC DWG#05-08-1561 Rev B), 9.5x16.0mm, 209 Ball, 11x19 Layout, 0.8mm Pitch, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-bga/05081561_bga209.pdf
 BGA 209 0.8
@@ -66878,6 +66983,13 @@ BGA-1295
 1295
 1295
 Package_BGA
+EPC_BGA-4_0.9x0.9mm_Layout2x2_P0.45mm
+EPC BGA-4, 0.9x09mm, Pitch 0.4mm, https://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2035_datasheet.pdf
+EPC BGA-4
+0
+8
+4
+Package_BGA
 FB-BGA-484_23.0x23.0mm_Layout22x22_P1.0mm
 Xilinx FB-484, https://www.xilinx.com/support/documentation/user_guides/ug1099-bga-device-design-rules.pdf
 FB-BGA-484
@@ -66926,6 +67038,13 @@ eMMC Flash LFBGA169
 0
 169
 169
+Package_BGA
+LFBGA-289_14x14mm_Layout17x17_P0.8mm
+LFBGA-289, 14.0x14.0mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp131c.pdf
+BGA 289 0.8
+0
+289
+289
 Package_BGA
 LFBGA-400_16x16mm_Layout20x20_P0.8mm
 LFBGA-400, NSMD, 16.0x16.0mm, 400 Ball, 20x20 Layout, 0.8mm Pitch, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf
@@ -67074,6 +67193,13 @@ BGA 448 0.8
 448
 448
 Package_BGA
+ST_TFBGA-169_7x7mm_Layout13x13_P0.5mm
+ST TFBGA-169, 7.0x7.0mm, 169 Ball, 13x13 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stm32u595aj.pdf
+BGA 169 0.5
+0
+169
+169
+Package_BGA
 ST_TFBGA-225_13x13mm_Layout15x15_P0.8mm
 ST TFBGA-225, 13.0x13.0mm, 225 Ball, 15x15 Layout, 0.8mm Pitch, https://www.st.com/resource/en/datasheet/stm32h7b3ri.pdf
 BGA 225 0.8
@@ -67087,6 +67213,13 @@ BGA 257 0.5
 0
 257
 257
+Package_BGA
+ST_TFBGA-320_11x11mm_Layout21x21_P0.5mm
+ST TFBGA-320, 11.0x11.0mm, 320 Ball, 21x21 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp131c.pdf
+BGA 320 0.5
+0
+320
+320
 Package_BGA
 ST_TFBGA-361_12x12mm_Layout23x23_P0.5mmP0.65mm
 ST TFBGA-361, 12.0x12.0mm, 361 Ball, 23x23 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp151a.pdf
@@ -67123,12 +67256,26 @@ BGA 36 0.5
 36
 36
 Package_BGA
+TFBGA-49_3x3mm_Layout7x7_P0.4mm
+TFBGA-49, NSMD, 3.0x3.0mm, 49 Ball, 7x7 Layout, 0.4mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf
+BGA 49 0.4 49-ball FBGA
+0
+49
+49
+Package_BGA
 TFBGA-64_5x5mm_Layout8x8_P0.5mm
 TFBGA-64, 8x8 raster, 5x5mm package, pitch 0.5mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f100v8.pdf
 BGA 64 0.5
 0
 64
 64
+Package_BGA
+TFBGA-81_5x5mm_Layout8x8_P0.5mm
+TFBGA-81, NSMD, 5.0x5.0mm, 81 Ball, 9x9 Layout, 0.5mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf
+BGA 81 0.5 81-ball FBGA
+0
+81
+81
 Package_BGA
 TFBGA-100_5.5x5.5mm_Layout10x10_P0.5mm
 TFBGA-100, NSMD, 5.5x5.5mm, 100 Ball, 10x10 Layout, 0.5mm Pitch, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf
@@ -67158,6 +67305,13 @@ BGA 121 0.8
 121
 121
 Package_BGA
+TFBGA-169_9x9mm_Layout13x13_P0.65mm
+TFBGA-169, NSMD, 9.0x9.0mm, 169 Ball, 13x13 Layout, 0.65mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf
+BGA 169 0.65 169-ball FBGA
+0
+169
+169
+Package_BGA
 TFBGA-216_13x13mm_Layout15x15_P0.8mm
 TFBGA-216, 15x15 raster, 13x13mm package, pitch 0.8mm; see section 6.8 of http://www.st.com/resource/en/datasheet/stm32f746zg.pdf
 BGA 216 0.8
@@ -67172,6 +67326,13 @@ BGA 225 0.65 225-ball FBGA
 225
 225
 Package_BGA
+TFBGA-256_13x13mm_Layout16x16_P0.8mm
+TFBGA-256, NSMD, 13.0x13.0mm, 256 Ball, 16x16 Layout, 0.8mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf
+BGA 256 0.8 256-ball FBGA
+0
+256
+256
+Package_BGA
 TFBGA-265_14x14mm_Layout17x17_P0.8mm
 TFBGA-265, 17x17 raster, 14x14mm package, pitch 0.8mm; see section 7.8 of http://www.st.com/resource/en/datasheet/DM00387108.pdf
 BGA 265 0.8
@@ -67179,12 +67340,33 @@ BGA 265 0.8
 265
 265
 Package_BGA
+TFBGA-289_9x9mm_Layout17x17_P0.5mm
+TFBGA-289, 9.0x9.0mm, 289 Ball, 17x17 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stm32mp131c.pdf
+BGA 289 0.5
+0
+289
+289
+Package_BGA
+TFBGA-324_12x12mm_Layout18x18_P0.8mm
+TFBGA-324, NSMD, 12.0x12.0mm, 324 Ball, 18x18 Layout, 0.65mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf
+BGA 324 0.65 324-ball FBGA
+0
+324
+324
+Package_BGA
 TFBGA-361_13x13mm_Layout19x19_P0.65mm
 TFBGA-361, NSMD, 13.0x13.0mm, 361 Ball, 19x19 Layout, 0.65mm Pitch, https://www.efinixinc.com/docs/titanium-packaging-ug-v5.2.pdf
 BGA 361 0.65 361-ball FBGA
 0
 361
 361
+Package_BGA
+TFBGA-576_16x16mm_Layout24x24_P0.65mm
+TFBGA-576, NSMD, 16.0x16.0mm, 576 Ball, 24x24 Layout, 0.65mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf
+BGA 576 0.65 576-ball FBGA
+0
+576
+576
 Package_BGA
 Texas_BGA-289_15.0x15.0mm_Layout17x17_P0.8mm_Ball0.5mm_Pad0.4mm
 Texas Instruments BGA-289, 0.4mm pad, 15x15mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, https://www.ti.com/lit/ml/mpbg777/mpbg777.pdf
@@ -67844,6 +68026,13 @@ CSP 64 0.4 64-ball WLCSP
 64
 64
 Package_CSP
+Efinix_WLCSP-80_4.4567x3.5569mm_Layout10x8_P0.4mm
+WLCSP-80, NSMD pad definition Page 54, 4.4567x3.5569mm, 80 Ball, 10x8 Layout, 0.4mm Pitch, https://www.efinixinc.com/docs/trion-packaging-ug-v4.9.pdf
+CSP 80 0.4 80-ball WLCSP
+0
+80
+80
+Package_CSP
 LFCSP-6-1EP_2x2mm_P0.65mm_EP1x1.6mm
 LFCSP, 6 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_6_3.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 LFCSP NoLead
@@ -68250,6 +68439,13 @@ CSP 15 0.4
 15
 15
 Package_CSP
+ST_WLCSP-12_1.70x1.42mm_P0.35mm_Stagger
+ST WLCSP-12, ST Die ID 443, 1.7x1.42mm, 12 Ball, Y-staggered 4x6 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32c011d6.pdf
+CSP 12 0.35
+0
+12
+12
+Package_CSP
 ST_WLCSP-18_1.86x2.14mm_P0.4mm_Stagger
 ST WLCSP-18, ST Die ID 466, 1.86x2.14mm, 18 Ball, X-staggered 7x5 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32g031y8.pdf
 CSP 18 0.4
@@ -68266,6 +68462,13 @@ CSP 20 0.4
 Package_CSP
 ST_WLCSP-25_2.30x2.48mm_Layout5x5_P0.4mm
 ST WLCSP-25, ST die ID 460, 2.3x2.48mm, 25 Ball, 5x5 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32g071eb.pdf
+CSP 25 0.4
+0
+25
+25
+Package_CSP
+ST_WLCSP-25_2.33x2.24mm_Layout5x5_P0.4mm
+ST WLCSP-25, ST Die ID 474, 2.33x2.24mm, 25 Ball, 5x5 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32h503eb.pdf
 CSP 25 0.4
 0
 25
@@ -68404,6 +68607,13 @@ CSP 52 0.4
 52
 52
 Package_CSP
+ST_WLCSP-56_3.38x3.38mm_P0.4m_Stagger
+ST WLCSP-56, ST die ID 455, 3.38x3.38mm, 56 Ball, X-staggered 14x8 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32u535je.pdf
+CSP 56 0.4
+0
+56
+56
+Package_CSP
 ST_WLCSP-63_Die427
 WLCSP-63, 7x9 raster, 3.228x4.164mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l151cc.pdf
 BGA 63 0.4
@@ -68481,12 +68691,26 @@ BGA 66 0.4
 66
 66
 Package_CSP
+ST_WLCSP-72_3.38x3.38mm_P0.35m_Stagger
+ST WLCSP-72, ST die ID 455, 3.38x3.38mm, 72 Ball, X-staggered 16x9 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32u535je.pdf
+CSP 72 0.35
+0
+72
+72
+Package_CSP
 ST_WLCSP-72_Die415
 WLCSP-72, 9x9 raster, 4.4084x3.7594mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l476me.pdf
 BGA 72 0.4
 0
 72
 72
+Package_CSP
+ST_WLCSP-80_3.50x3.27mm_P0.35mm_Stagger
+ST WLCSP-80, ST die ID 484, 3.5x3.27mm, 80 Ball, Y-staggered 10x16 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32h563mi.pdf
+CSP 80 0.35
+0
+80
+80
 Package_CSP
 ST_WLCSP-81_4.02x4.27mm_Layout9x9_P0.4mm
 ST WLCSP-81, ST die ID 469, 4.02x4.27mm, 81 Ball, 9x9 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32g483me.pdf
@@ -68628,6 +68852,13 @@ BGA 144 0.4
 144
 144
 Package_CSP
+ST_WLCSP-150_5.38x5.47mm_P0.4m_Stagger
+ST WLCSP-150, ST die ID 481, 5.38x5.47mm, 150 Ball, Y-staggered 13x23 Layout, 0.4mm Pitch, https://www.st.com/resource/en/datasheet/stm32u595zj.pdf
+CSP 150 0.4
+0
+150
+150
+Package_CSP
 ST_WLCSP-156_4.96x4.64mm_Layout13x12_P0.35mm
 ST WLCSP-156, ST die ID 450, 4.96x4.64mm, 156 Ball, 13x12 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32h747xi.pdf
 CSP 156 0.35
@@ -68648,6 +68879,20 @@ BGA 180 0.4
 0
 180
 180
+Package_CSP
+ST_WLCSP-208_5.8x5.6mm_P0.35_Stagger
+ST WLCSP-208, ST die ID 476, 5.8x5.6mm, 208 Ball, X-staggered 26x16 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32u5f9bj.pdf
+CSP 208 0.35
+0
+208
+208
+Package_CSP
+ST_WLCSP-208_5.38x5.47mm_P0.35mm_Stagger
+ST WLCSP-208, ST die ID 481, 5.38x5.47mm, 208 Ball, X-staggered 26x16 Layout, 0.35mm Pitch, https://www.st.com/resource/en/datasheet/stm32u5a5aj.pdf
+CSP 208 0.35
+0
+208
+208
 Package_CSP
 WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
 X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf
@@ -69146,13 +69391,6 @@ DFN 0.45
 15
 13
 Package_DFN_QFN
-DFN-12-1EP_3x3mm_P0.5mm_EP1.4x2.55mm
-DFN, 12 Pin (https://www.st.com/resource/en/datasheet/st25dv04k.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-14
-13
-Package_DFN_QFN
 DFN-12-1EP_3x3mm_P0.5mm_EP1.6x2.5mm
 DFN, 12 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2207-2MHz-3A-PWM-Buck-Regulator-DS20006470A.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
@@ -69172,6 +69410,20 @@ DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm
 DFN 0.5
 0
 17
+13
+Package_DFN_QFN
+DFN-12-1EP_3x3mm_P0.45mm_EP1.65x2.38mm
+DFN, 12 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/DFN_12_05-08-1725.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+17
+13
+Package_DFN_QFN
+DFN-12-1EP_3x3mm_P0.45mm_EP1.65x2.38mm_ThermalVias
+DFN, 12 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-dfn/DFN_12_05-08-1725.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+24
 13
 Package_DFN_QFN
 DFN-12-1EP_3x3mm_P0.45mm_EP1.66x2.38mm
@@ -71379,6 +71631,13 @@ DFN package size 0604 3 pins
 3
 3
 Package_DFN_QFN
+ST_UFDFPN-12-1EP_3x3mm_P0.5mm_EP1.4x2.55mm
+ST  UFDFPN, 12 Pin (https://www.st.com/resource/en/datasheet/st25dv04k.pdf#page=152), generated with kicad-footprint-generator ipc_noLead_generator.py
+ST UFDFPN NoLead
+0
+14
+13
+Package_DFN_QFN
 ST_UFQFPN-20_3x3mm_P0.5mm
 UFQFPN 20-lead, 3 x 3 mm, 0.5 mm pitch, ultra thin fine pitch quad flat package (http://www.st.com/resource/en/datasheet/stm8s003f3.pdf)
 UFQFPN 0.5
@@ -71820,61 +72079,103 @@ Texas_R-PUQFN-N12
 13
 12
 Package_DFN_QFN
-Texas_R-PWQFN-N28_EP2.1x3.1mm
-QFN, 28 Pin (http://www.ti.com/lit/ds/symlink/tps51363.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
+Texas_RGC0064B_VQFN-64-1EP_9x9mm_P0.5mm_EP4.25x4.25mm
+Texas RGC0064B VQFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=122), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
 0
-33
-29
+69
+65
 Package_DFN_QFN
-Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias
-QFN, 28 Pin (http://www.ti.com/lit/ds/symlink/tps51363.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
+Texas_RGC0064B_VQFN-64-1EP_9x9mm_P0.5mm_EP4.25x4.25mm_ThermalVias
+Texas RGC0064B VQFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=122), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
 0
-43
-29
+127
+65
 Package_DFN_QFN
-Texas_RGE0024C_EP2.1x2.1mm
-Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas QFN NoLead
+Texas_RGE0024C_VQFN-24-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
+Texas RGE0024C VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
 0
 29
 25
 Package_DFN_QFN
-Texas_RGE0024C_EP2.1x2.1mm_ThermalVias
-Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas QFN NoLead
+Texas_RGE0024C_VQFN-24-1EP_4x4mm_P0.5mm_EP2.1x2.1mm_ThermalVias
+Texas RGE0024C VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/pca9548a.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
 0
 39
 25
 Package_DFN_QFN
-Texas_RGE0024H_EP2.7x2.7mm
-Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=39), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas QFN NoLead
+Texas_RGE0024H_VQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
+Texas RGE0024H VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
 0
 29
 25
 Package_DFN_QFN
-Texas_RGE0024H_EP2.7x2.7mm_ThermalVias
-Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=39), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas QFN NoLead
+Texas_RGE0024H_VQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+Texas RGE0024H VQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
 0
 39
 25
 Package_DFN_QFN
-Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm
-QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ina3221.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
+Texas_RGP0020D_VQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
+Texas RGP0020D VQFN, 20 Pin (http://www.ti.com/lit/ds/symlink/drv8662.pdf#page=25), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+Texas_RGP0020D_VQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+Texas RGP0020D VQFN, 20 Pin (http://www.ti.com/lit/ds/symlink/drv8662.pdf#page=25), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+35
+21
+Package_DFN_QFN
+Texas_RGP0020H_VQFN-20-1EP_4x4mm_P0.5mm_EP2.4x2.4mm
+Texas RGP0020H VQFN, 20 Pin (http://www.ti.com/lit/ds/symlink/cc1101.pdf#page=101), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+Texas_RGP0020H_VQFN-20-1EP_4x4mm_P0.5mm_EP2.4x2.4mm_ThermalVias
+Texas RGP0020H VQFN, 20 Pin (http://www.ti.com/lit/ds/symlink/cc1101.pdf#page=101), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+35
+21
+Package_DFN_QFN
+Texas_RGV0016A_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
+Texas RGV0016A VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ina3221.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
 0
 21
 17
 Package_DFN_QFN
-Texas_RGV_S-PVQFN-N16_EP2.1x2.1mm_ThermalVias
-QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ina3221.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
+Texas_RGV0016A_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias
+Texas RGV0016A VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/ina3221.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
 0
 31
 17
+Package_DFN_QFN
+Texas_RGW0020A_VQFN-20-1EP_5x5mm_P0.65mm_EP3.15x3.15mm
+Texas RGW0020A VQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/tps7a47.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+Texas_RGW0020A_VQFN-20-1EP_5x5mm_P0.65mm_EP3.15x3.15mm_ThermalVias
+Texas RGW0020A VQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/tps7a47.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+47
+21
 Package_DFN_QFN
 Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm
 QFN, 16 Pin (https://www.ti.com/lit/ds/symlink/ts5v330.pdf#page=28)
@@ -71918,6 +72219,104 @@ QFN NoLead
 36
 25
 Package_DFN_QFN
+Texas_RGZ0048A_VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
+Texas RGZ0048A VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/msp430f5232.pdf#page=113), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+65
+49
+Package_DFN_QFN
+Texas_RGZ0048A_VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm_ThermalVias
+Texas RGZ0048A VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/msp430f5232.pdf#page=113), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+111
+49
+Package_DFN_QFN
+Texas_RHA0040B_VQFN-40-1EP_6x6mm_P0.5mm_EP4.15x4.15mm
+Texas RHA0040B VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430g2755.pdf#page=72 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+50
+41
+Package_DFN_QFN
+Texas_RHA0040B_VQFN-40-1EP_6x6mm_P0.5mm_EP4.15x4.15mm_ThermalVias
+Texas RHA0040B VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430g2755.pdf#page=72 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+83
+41
+Package_DFN_QFN
+Texas_RHA0040D_VQFN-40-1EP_6x6mm_P0.5mm_EP2.9x2.9mm
+Texas RHA0040D VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430fr5731.pdf#page=111 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+45
+41
+Package_DFN_QFN
+Texas_RHA0040D_VQFN-40-1EP_6x6mm_P0.5mm_EP2.9x2.9mm_ThermalVias
+Texas RHA0040D VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430fr5731.pdf#page=111 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+55
+41
+Package_DFN_QFN
+Texas_RHA0040E_VQFN-40-1EP_6x6mm_P0.5mm_EP3.52x2.62mm
+Texas RHA0040E VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/drv8308.pdf#page=57 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+47
+41
+Package_DFN_QFN
+Texas_RHA0040E_VQFN-40-1EP_6x6mm_P0.5mm_EP3.52x2.62mm_ThermalVias
+Texas RHA0040E VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/drv8308.pdf#page=57 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+60
+41
+Package_DFN_QFN
+Texas_RHA_VQFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm
+Texas RHA VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/dac7750.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+50
+41
+Package_DFN_QFN
+Texas_RHA_VQFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm_ThermalVias
+Texas RHA VQFN, 40 Pin (http://www.ti.com/lit/ds/symlink/dac7750.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+83
+41
+Package_DFN_QFN
+Texas_RHB0032E_VQFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm
+Texas RHB0032E VQFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+42
+33
+Package_DFN_QFN
+Texas_RHB0032E_VQFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm_ThermalVias
+Texas RHB0032E VQFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+59
+33
+Package_DFN_QFN
+Texas_RHH0036C_VQFN-36-1EP_6x6mm_P0.5mm_EP4.4x4.4mm
+Texas RHH0036C VQFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+46
+37
+Package_DFN_QFN
+Texas_RHH0036C_VQFN-36-1EP_6x6mm_P0.5mm_EP4.4x4.4mm_ThermalVias
+Texas RHH0036C VQFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+79
+37
+Package_DFN_QFN
 Texas_RJE0020A_VQFN-20-1EP_3x3mm_P0.45mm_EP0.675x0.76mm
 Texas RJE0020A VQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/tps51396a.pdf#page=31), generated with kicad-footprint-generator ipc_noLead_generator.py
 Texas VQFN NoLead
@@ -71939,19 +72338,110 @@ ti vqfn-hr rnn0018a
 26
 18
 Package_DFN_QFN
-Texas_RUM0016A_EP2.6x2.6mm
-QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/lmh0074.pdf#page=13), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
+Texas_RSA_VQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm
+Texas RSA VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+26
+17
+Package_DFN_QFN
+Texas_RSA_VQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm_ThermalVias
+Texas RSA VQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+31
+17
+Package_DFN_QFN
+Texas_RSN_WQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm
+Texas RSN WQFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=90), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+37
+33
+Package_DFN_QFN
+Texas_RSN_WQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm_ThermalVias
+Texas RSN WQFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=90), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+47
+33
+Package_DFN_QFN
+Texas_RTE_WQFN-16-1EP_3x3mm_P0.5mm_EP1.2x0.8mm
+Texas RTE WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
 0
 21
 17
 Package_DFN_QFN
-Texas_RUM0016A_EP2.6x2.6mm_ThermalVias
-QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/lmh0074.pdf#page=13), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
+Texas_RTE_WQFN-16-1EP_3x3mm_P0.5mm_EP1.2x0.8mm_ThermalVias
+Texas RTE WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+23
+17
+Package_DFN_QFN
+Texas_RTW_WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
+Texas RTW WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq25601.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+29
+25
+Package_DFN_QFN
+Texas_RTW_WQFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias
+Texas RTW WQFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq25601.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+39
+25
+Package_DFN_QFN
+Texas_RTY_WQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
+Texas RTY WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/drv8801.pdf#page=36 MO-220 variation VGGC), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+21
+17
+Package_DFN_QFN
+Texas_RTY_WQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias
+Texas RTY WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/drv8801.pdf#page=36 MO-220 variation VGGC), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
 0
 31
 17
+Package_DFN_QFN
+Texas_RUM0016A_WQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm
+Texas RUM0016A WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/lmh0074.pdf#page=13), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+21
+17
+Package_DFN_QFN
+Texas_RUM0016A_WQFN-16-1EP_4x4mm_P0.65mm_EP2.6x2.6mm_ThermalVias
+Texas RUM0016A WQFN, 16 Pin (http://www.ti.com/lit/ds/symlink/lmh0074.pdf#page=13), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+31
+17
+Package_DFN_QFN
+Texas_RUN0010A_WQFN-10_2x2mm_P0.5mm
+Texas RUN0010A WQFN, 10 Pin (https://www.ti.com/lit/ds/symlink/tmp461.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas WQFN NoLead
+0
+10
+10
+Package_DFN_QFN
+Texas_RVE0028A_VQFN-28-1EP_3.5x4.5mm_P0.4mm_EP2.1x3.1mm
+Texas RVE0028A VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/tps51363.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+33
+29
+Package_DFN_QFN
+Texas_RVE0028A_VQFN-28-1EP_3.5x4.5mm_P0.4mm_EP2.1x3.1mm_ThermalVias
+Texas RVE0028A VQFN, 28 Pin (http://www.ti.com/lit/ds/symlink/tps51363.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas VQFN NoLead
+0
+43
+29
 Package_DFN_QFN
 Texas_RWH0032A
 Texas Instruments, RWH0032A, 8x8x0.9mm (http://www.ti.com/lit/ds/snosd10c/snosd10c.pdf)
@@ -71995,250 +72485,12 @@ Texas_S-PVQFN-N14_ThermalVias
 24
 15
 Package_DFN_QFN
-Texas_S-PVQFN-N16_EP2.7x2.7mm
-QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf#page=43), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-26
-17
-Package_DFN_QFN
-Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias
-QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf#page=43), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-31
-17
-Package_DFN_QFN
-Texas_S-PVQFN-N20_EP2.4x2.4mm
-QFN, 20 Pin (http://www.ti.com/lit/ds/symlink/cc1101.pdf#page=101), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-25
-21
-Package_DFN_QFN
-Texas_S-PVQFN-N20_EP2.4x2.4mm_ThermalVias
-QFN, 20 Pin (http://www.ti.com/lit/ds/symlink/cc1101.pdf#page=101), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-35
-21
-Package_DFN_QFN
-Texas_S-PVQFN-N20_EP2.7x2.7mm
-QFN, 20 Pin (http://www.ti.com/lit/ds/symlink/drv8662.pdf#page=23), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-25
-21
-Package_DFN_QFN
-Texas_S-PVQFN-N20_EP2.7x2.7mm_ThermalVias
-QFN, 20 Pin (http://www.ti.com/lit/ds/symlink/drv8662.pdf#page=23), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-35
-21
-Package_DFN_QFN
-Texas_S-PVQFN-N20_EP3.15x3.15mm
-QFN, 20 Pin (www.ti.com/lit/ds/symlink/tps7a7200.pdf#page=36), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-25
-21
-Package_DFN_QFN
-Texas_S-PVQFN-N20_EP3.15x3.15mm_ThermalVias
-QFN, 20 Pin (www.ti.com/lit/ds/symlink/tps7a7200.pdf#page=36), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-47
-21
-Package_DFN_QFN
-Texas_S-PVQFN-N24_EP2.1x2.1mm
-QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430fr5720.pdf#page=108), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-29
-25
-Package_DFN_QFN
-Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias
-QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430fr5720.pdf#page=108), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-39
-25
-Package_DFN_QFN
-Texas_S-PVQFN-N32_EP3.45x3.45mm
-QFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-42
-33
-Package_DFN_QFN
-Texas_S-PVQFN-N32_EP3.45x3.45mm_ThermalVias
-QFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-59
-33
-Package_DFN_QFN
-Texas_S-PVQFN-N36_EP4.4x4.4mm
-QFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-46
-37
-Package_DFN_QFN
-Texas_S-PVQFN-N36_EP4.4x4.4mm_ThermalVias
-QFN, 36 Pin (http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-79
-37
-Package_DFN_QFN
-Texas_S-PVQFN-N40_EP2.9x2.9mm
-QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430fr5731.pdf#page=111 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-45
-41
-Package_DFN_QFN
-Texas_S-PVQFN-N40_EP2.9x2.9mm_ThermalVias
-QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430fr5731.pdf#page=111 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-55
-41
-Package_DFN_QFN
-Texas_S-PVQFN-N40_EP3.52x2.62mm
-QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/drv8308.pdf#page=56 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-47
-41
-Package_DFN_QFN
-Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias
-QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/drv8308.pdf#page=56 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-60
-41
-Package_DFN_QFN
-Texas_S-PVQFN-N40_EP4.6x4.6mm
-QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/dac7750.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-50
-41
-Package_DFN_QFN
-Texas_S-PVQFN-N40_EP4.6x4.6mm_ThermalVias
-QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/dac7750.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-83
-41
-Package_DFN_QFN
-Texas_S-PVQFN-N40_EP4.15x4.15mm
-QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430g2755.pdf#page=70 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-50
-41
-Package_DFN_QFN
-Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias
-QFN, 40 Pin (http://www.ti.com/lit/ds/symlink/msp430g2755.pdf#page=70 JEDEC MO-220 variation VJJD-2), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-83
-41
-Package_DFN_QFN
-Texas_S-PVQFN-N48_EP5.15x5.15mm
-QFN, 48 Pin (http://www.ti.com/lit/ds/symlink/msp430f5232.pdf#page=111), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-65
-49
-Package_DFN_QFN
-Texas_S-PVQFN-N48_EP5.15x5.15mm_ThermalVias
-QFN, 48 Pin (http://www.ti.com/lit/ds/symlink/msp430f5232.pdf#page=111), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-111
-49
-Package_DFN_QFN
-Texas_S-PVQFN-N64_EP4.25x4.25mm
-QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=120), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-69
-65
-Package_DFN_QFN
-Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias
-QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf#page=120), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-127
-65
-Package_DFN_QFN
-Texas_S-PWQFN-N16_EP1.2x0.8mm
-Texas RTE WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas WQFN NoLead
-0
-21
-17
-Package_DFN_QFN
-Texas_S-PWQFN-N16_EP1.2x0.8mm_ThermalVias
-Texas RTE WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas WQFN NoLead
-0
-23
-17
-Package_DFN_QFN
-Texas_S-PWQFN-N16_EP2.1x2.1mm
-QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/drv8801.pdf#page=31 MO-220 variation VGGC), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-21
-17
-Package_DFN_QFN
-Texas_S-PWQFN-N16_EP2.1x2.1mm_ThermalVias
-QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/drv8801.pdf#page=31 MO-220 variation VGGC), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-31
-17
-Package_DFN_QFN
 Texas_S-PWQFN-N20
 20-Pin Plastic Quad Flatpack No-Lead Package, Body 3.0x3.0x0.8mm, Texas Instruments (http://www.ti.com/lit/ds/symlink/tps22993.pdf)
 QFN 0.4
 0
 24
 20
-Package_DFN_QFN
-Texas_S-PWQFN-N24_EP2.7x2.7mm
-QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq25601.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-29
-25
-Package_DFN_QFN
-Texas_S-PWQFN-N24_EP2.7x2.7mm_ThermalVias
-QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq25601.pdf#page=54), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-39
-25
-Package_DFN_QFN
-Texas_S-PWQFN-N32_EP2.8x2.8mm
-QFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=90), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-37
-33
-Package_DFN_QFN
-Texas_S-PWQFN-N32_EP2.8x2.8mm_ThermalVias
-QFN, 32 Pin (https://www.ti.com/lit/ds/symlink/bq25703a.pdf#page=90), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-47
-33
 Package_DFN_QFN
 Texas_S-PWQFN-N100_EP5.5x5.5mm
 http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf
@@ -72316,13 +72568,6 @@ Texas VSON-HR NoLead
 0
 8
 8
-Package_DFN_QFN
-Texas_WQFN-10_2x2mm_P0.5mm
-Texas  WQFN, 10 Pin (https://www.ti.com/lit/ds/symlink/tmp461.pdf#page=35 (RUN0010A)), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas WQFN NoLead
-0
-10
-10
 Package_DFN_QFN
 Texas_WQFN-MR-100_3x3-DapStencil
 http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf
@@ -74899,6 +75144,13 @@ DirectFET ST MOSFET Infineon
 0
 7
 3
+Package_LCC
+Analog_LCC-8_5x5mm_P1.27mm
+LCC, ceramic leaded chip carrier, 8 pins, surface mount, Analog Devices LS8, 5x5mm, height 1.45mm, https://www.analog.com/media/en/technical-documentation/data-sheets/ltc6655-6655ln.pdf
+lcc smt
+0
+8
+8
 Package_LCC
 PLCC-20
 PLCC, 20 pins, surface mount
@@ -79212,6 +79464,13 @@ LFPAK56 SOT-669 Power-SO8
 18
 5
 Package_TO_SOT_SMD
+LFPAK88
+LFPAK88 PowerPAK 8 x 8L BWL Single SOT-1235 (https://assets.nexperia.com/documents/package-information/SOT1235.pdf)
+PowerPAK 8x8L Nexperia Vishay
+0
+19
+5
+Package_TO_SOT_SMD
 Nexperia_CFP15_SOT-1289
 Nexperia CFP15 (SOT-1289), https://assets.nexperia.com/documents/outline-drawing/SOT1289.pdf
 SOT-1289 CFP15
@@ -82838,6 +83097,13 @@ quectel GPS GNSS
 12
 12
 RF_GPS
+Quectel_L96
+Quectel L96 GPS GLONASS Galileo BeiDou Module, internal chip antenna, https://static6.arrow.com/aropdfconversion/50213b4bc5cb920911b62909a5ca765b1c5ab3d1/quectel_l96_hardware_design_v1.2.pdf
+Quectel GPS GNSS
+0
+31
+31
+RF_GPS
 SIM28ML
 https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf
 SIM28ML GPS
@@ -82900,6 +83166,13 @@ GPS GNSS ublox ZED
 0
 102
 55
+RF_GPS
+ublox_ZOE_M8
+GPS Ublox ZOE, https://content.u-blox.com/sites/default/files/ZOE-M8_DataSheet_UBX-16008094.pdf
+Ublox GPS GNSS
+0
+51
+51
 RF_GSM
 Quectel_BC66
 GSM NB-IoT module, 15.8x17.7x2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC66_Hardware_Design_V1.1.pdf
@@ -83937,13 +84210,6 @@ Relay 1-Form-C Schrack-RYII RM3.2mm SPDT
 5
 5
 Relay_THT
-Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT
-Panasonic Relay SPST 10mm 24mm, https://www.panasonic-electric-works.com/pew/es/downloads/ds_dw_hl_en.pdf
-Panasonic Relay SPST
-0
-4
-4
-Relay_THT
 Relay_3PST_COTO_3650
 Low thermal EMF 3PST-NO reed relay, 150V 0.25A, similar to 3660 but with independent shield, https://cotorelay.com/wp-content/uploads/2014/09/3600_series_reed_relay_datasheet.pdf
 reed relay low thermal emf
@@ -84357,6 +84623,20 @@ Omron Relay SPST High Capacity
 6
 4
 Relay_THT
+Relay_SPST_Omron_G5NB
+PCB Power Relay, SPST-NO, 7A (250 VAC), 5A (30 VDC), 20.5x7.2x15.3mm max
+Omron G5NB Relay SPST-NO
+0
+4
+4
+Relay_THT
+Relay_SPST_Panasonic_ADW11
+Panasonic power relay, SPST, latching, 10x24mm, 18.8mm height, https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/270
+Panasonic Relay SPST
+0
+4
+4
+Relay_THT
 Relay_SPST_Panasonic_ALFG_FormA
 Panasonic Relay SPST, https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf
 Panasonic Relay SPST
@@ -84514,6 +84794,13 @@ Relay_THT
 Relay_SPST_TE_PCN-1xxD3MHZ
 https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1461491%7FG2%7Fpdf%7FEnglish%7FENG_CD_1461491_G2.pdf%7F3-1461491-0
 SPST relay slim
+0
+4
+4
+Relay_THT
+Relay_SPST_Zettler-AZSR131
+American Zettler RELAY EV CHRG SOLAR SPST 35A 12V, https://zettlerelectronics.com/products/AZSR131.pdf
+SPST
 0
 4
 4
@@ -86225,6 +86512,13 @@ Current transducer
 0
 10
 10
+Sensor_Distance
+AMS_OLGA12
+TMF8820/1/8 distance sensor
+TMF8820 TMF8821 TMF8828 
+0
+12
+12
 Sensor_Distance
 ST_VL53L1x
 VL53L1x distance sensor
