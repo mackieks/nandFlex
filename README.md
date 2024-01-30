@@ -4,7 +4,7 @@ Low-profile NAND relocation flex for Nintendo Wii. Stays entirely below the top 
 <img src="https://github.com/mackieks/nandFlex/blob/main/images/flex_bottom.png" height=350> <img src="https://github.com/mackieks/nandFlex/blob/main/images/flex_top.png" height=350> 
 <img src="https://github.com/mackieks/nandFlex/blob/main/images/overlay.png" width=1000> 
 
-Design is based on [Jumar Macato's OmegaFlex](https://github.com/jmacato/OmegaFlex) and licensed under CERN-OHL-S-2.0, accordingly.
+Design is based on [Jumar Macato's OmegaFlex](https://github.com/jmacato/OmegaFlex) and licensed accordingly.
 
 ## Licensing
 
