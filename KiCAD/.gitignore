@@ -1,3 +1,6 @@
 nandFlex-backups/
 .DS_Store
 .zip
+.kicad_prl
+.lck
+fp-info-cache
