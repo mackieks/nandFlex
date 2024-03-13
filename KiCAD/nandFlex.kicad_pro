@@ -77,6 +77,7 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
+        "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
@@ -463,7 +464,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "omega-flex.kicad_pro",
+    "filename": "nandFlex.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -498,7 +499,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
