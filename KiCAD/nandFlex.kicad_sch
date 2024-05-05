@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20240101)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "8.99")
 	(uuid "b19cb028-dbde-4027-a5b8-5e978264ede3")
 	(paper "A4")
 	(title_block
@@ -1240,7 +1240,7 @@
 			(uuid "7cee3fa8-ab3a-458c-bd65-44c80164a2a7")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "C3")
 					(unit 1)
@@ -1307,7 +1307,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab190")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J9")
 					(unit 1)
@@ -1374,7 +1374,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab18c")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J5")
 					(unit 1)
@@ -1441,7 +1441,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab197")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J16")
 					(unit 1)
@@ -1508,7 +1508,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab192")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J11")
 					(unit 1)
@@ -1575,7 +1575,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab18d")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J6")
 					(unit 1)
@@ -1640,7 +1640,7 @@
 			(uuid "6c04d70e-d81f-4085-b917-038639b20ebe")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "#PWR0113")
 					(unit 1)
@@ -1707,7 +1707,7 @@
 			(uuid "d90552cd-87d1-46e5-862d-615e57d51890")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J19")
 					(unit 1)
@@ -1774,7 +1774,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab198")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J17")
 					(unit 1)
@@ -1841,7 +1841,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab189")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J1")
 					(unit 1)
@@ -1906,7 +1906,7 @@
 			(uuid "6c04d70e-d81f-4085-b917-038639b20ebd")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "#PWR0104")
 					(unit 1)
@@ -1973,7 +1973,7 @@
 			(uuid "07198b5b-314f-4b64-8ad2-7cbca4254ac4")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J18")
 					(unit 1)
@@ -2040,7 +2040,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab199")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J2")
 					(unit 1)
@@ -2109,7 +2109,7 @@
 			(uuid "db419fc8-b734-4f18-812e-1f4d1fe4be89")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "C1")
 					(unit 1)
@@ -2176,7 +2176,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab18e")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J7")
 					(unit 1)
@@ -2323,7 +2323,7 @@
 			(uuid "085af95a-ca15-401a-a78a-bec0fc655087")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "U1")
 					(unit 1)
@@ -2388,7 +2388,7 @@
 			(uuid "c784649d-4799-46df-a47b-7c35d31f6439")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "#PWR01")
 					(unit 1)
@@ -2455,7 +2455,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab18b")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J4")
 					(unit 1)
@@ -2522,7 +2522,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab195")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J14")
 					(unit 1)
@@ -2589,7 +2589,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab196")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J15")
 					(unit 1)
@@ -2658,7 +2658,7 @@
 			(uuid "c226e814-6b4e-4880-abd7-2e873d636d31")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "R1")
 					(unit 1)
@@ -2723,7 +2723,7 @@
 			(uuid "0d667b3d-7d09-4ffd-b7e4-cef875841120")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "#PWR02")
 					(unit 1)
@@ -2790,7 +2790,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab191")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J10")
 					(unit 1)
@@ -2859,7 +2859,7 @@
 			(uuid "db419fc8-b734-4f18-812e-1f4d1fe4be8a")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "C2")
 					(unit 1)
@@ -2926,7 +2926,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab194")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J13")
 					(unit 1)
@@ -2993,7 +2993,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab193")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J12")
 					(unit 1)
@@ -3058,7 +3058,7 @@
 			(uuid "ba653d9e-6b83-4311-97c2-32b993c51e79")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "#PWR0102")
 					(unit 1)
@@ -3123,7 +3123,7 @@
 			(uuid "6c04d70e-d81f-4085-b917-038639b20ebc")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "#PWR0103")
 					(unit 1)
@@ -3190,7 +3190,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab18f")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J8")
 					(unit 1)
@@ -3257,7 +3257,7 @@
 			(uuid "8e8ecee9-7f94-494e-aa6a-25be02cab18a")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "J3")
 					(unit 1)
@@ -3322,7 +3322,7 @@
 			(uuid "ba653d9e-6b83-4311-97c2-32b993c51e7a")
 		)
 		(instances
-			(project "omega-flex"
+			(project "nandFlex"
 				(path "/b19cb028-dbde-4027-a5b8-5e978264ede3"
 					(reference "#PWR0101")
 					(unit 1)

@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.0-rc2*
-G04 #@! TF.CreationDate,2024-03-13T16:32:28-04:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.99.0-344-gfbc433deaa*
+G04 #@! TF.CreationDate,2024-05-05T12:56:36-04:00*
 G04 #@! TF.ProjectId,nandFlex,6e616e64-466c-4657-982e-6b696361645f,3*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.0-rc2) date 2024-03-13 16:32:28*
+G04 Created by KiCad (PCBNEW 8.99.0-344-gfbc433deaa) date 2024-05-05 12:56:36*
 %MOMM*%
 %LPD*%
 G01*
@@ -30,7 +30,7 @@ G04 Aperture macros list*
 20,1,$1+$1,$8,$9,$2,$3,0*%
 G04 Aperture macros list end*
 %ADD10RoundRect,0.140000X-0.140000X-0.170000X0.140000X-0.170000X0.140000X0.170000X-0.140000X0.170000X0*%
-%ADD11RoundRect,0.100000X-0.025000X0.450000X-0.025000X-0.450000X0.025000X-0.450000X0.025000X0.450000X0*%
+%ADD11RoundRect,0.112000X-0.028000X0.438000X-0.028000X-0.438000X0.028000X-0.438000X0.028000X0.438000X0*%
 %ADD12RoundRect,0.135000X0.135000X0.185000X-0.135000X0.185000X-0.135000X-0.185000X0.135000X-0.185000X0*%
 G04 APERTURE END LIST*
 D10*

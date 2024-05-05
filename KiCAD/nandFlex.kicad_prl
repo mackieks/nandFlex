@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 0,
-    "active_layer_preset": "All Layers",
+    "active_layer": 39,
+    "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -14,18 +14,19 @@
       "vias": 1.0,
       "zones": 0.6
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
+      "otherItems": false,
       "pads": true,
-      "text": true,
-      "tracks": true,
-      "vias": true,
-      "zones": true
+      "text": false,
+      "tracks": false,
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       0,
@@ -34,12 +35,13 @@
       3,
       4,
       5,
+      6,
       8,
       9,
       10,
       11,
-      12,
       13,
+      14,
       15,
       16,
       17,
@@ -60,11 +62,9 @@
       33,
       34,
       35,
-      36,
-      39,
-      40
+      36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "ffc00f0_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -79,5 +79,18 @@
   },
   "project": {
     "files": []
+  },
+  "schematic": {
+    "selection_filter": {
+      "graphics": true,
+      "images": true,
+      "labels": true,
+      "lockedItems": false,
+      "otherItems": true,
+      "pins": true,
+      "symbols": true,
+      "text": true,
+      "wires": true
+    }
   }
 }
